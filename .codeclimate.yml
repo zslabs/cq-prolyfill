@@ -1,0 +1,12 @@
+engines:
+    eslint:
+        enabled: true
+    fixme:
+        enabled: true
+
+ratings:
+    paths:
+        - cq-prolyfill.js
+
+exclude_paths:
+    - test-files/**/*
